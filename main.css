@@ -1,3 +1,32 @@
 body {
-  background-color: #EAD7BB;
+  background-color: #CEE6F3;
+}
+
+h1 {
+  color: #6C3428;
+  text-align: center;
+}
+
+h2 {
+  color: #BA704F;
+}
+
+article {
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+#allparts {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  border: 3px solid #618264;
+}
+
+#starbucks {
+  font-family: 'Courier New', Courier, monospace;
+  border: double 6px #862B0D;
+}
+
+#publix {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border: inset 9px #D7C0AE;
 }
